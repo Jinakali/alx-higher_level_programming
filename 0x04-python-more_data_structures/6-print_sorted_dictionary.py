@@ -10,4 +10,4 @@ def print_sorted_dictionary(a_dictionary):
         return None
     keys_sorted = sorted(a_dictionary)
     for i in keys_sorted:
-        print("{}".formmat(a_dictionary[i]))
+        print("{}: {}".format(i, a_dictionary[i]))
