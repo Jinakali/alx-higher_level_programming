@@ -1,1 +1,1 @@
-In this project I learn some general ideas on Python programming
+In this project I practise some simple concepts on Python programming
